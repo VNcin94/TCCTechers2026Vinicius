@@ -1,0 +1,27 @@
+{
+  "name": "tcctechers2026vinicius",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VNcin94/TCCTechers2026Vinicius#readme",
+  "bugs": {
+    "url": "https://github.com/VNcin94/TCCTechers2026Vinicius/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNcin94/TCCTechers2026Vinicius.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.3",
+    "uuid": "^14.0.2"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.11"
+  }
+}
